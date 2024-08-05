@@ -61,7 +61,7 @@ for filename in os.listdir(folder_path):
 df = pd.DataFrame(datos_pozo_list)
 
 # Ruta para guardar el archivo Excel
-file_path_excel = r'C:\Users\DGutierrez\Desktop\Bombes\Ficha_Tecnica_Bombes.xlsx'
+file_path_excel = r'rutadelarchivo.xlsx'
 
 # Guardar el DataFrame en un archivo Excel
 try:
