@@ -42,7 +42,7 @@ def extraer_datos_word(file_path):
     return data
 
 # Ruta a la carpeta con los archivos de Word
-folder_path = r'C:\Users\DGutierrez\Desktop\Bombes'
+folder_path = r'rutacarpetaarchivoword'
 
 # Lista para almacenar los datos extraídos
 datos_pozo_list = []
